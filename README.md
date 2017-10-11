@@ -1,3 +1,3 @@
 # php-ping
 
-modify to u want to ping's ip address.
+modify the ip what u want to ping.
